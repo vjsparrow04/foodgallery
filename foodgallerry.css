@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Rubik+Glitch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Rubik+Glitch&display=swap');
+root{
+
+}
+#heading{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-image:url(../images/1663731150_1-mykaleidoscope-ru-p-food-on-a-black-background-yeda-oboi-1.jpg);
+}
+h1{
+    font-weight: 900px;
+    font-size: xx-large;
+    padding-left: 580px;
+    padding-top: 30px;
+    padding-bottom: 20px; 
+}
+
+
+#cook1{
+    margin-top: -22PX;
+    margin-left: 220px;
+
+}
+p{
+    margin-left: 850px;
+    margin-top: -25Px;
+    font-size: larger;
+}
+button{
+    margin-left: 860px;
+    margin-top: -2PX;
+
+}
+
+#container1{
+width: 50%;
+height: 200px;
+border-radius:10px;
+margin-top:-88px;
+background-color:rgb(205, 149, 99);
+
+}
+img{
+    width: 303px;
+    position: relative;
+}
+h3{
+    margin-left: 320px;
+    margin-top: 385px;
+}
+#p1{
+    margin-left:315px;
+    
+
+}
+#b1{
+    margin-left: 616px;
+    margin-top: 3px;
+}
+
+
+#container2{
+    width: 50%;
+    height: 200px;
+    border-radius:10px;
+    margin-top:120px;
+    background-color:rgb(206, 146, 94);
+    
+    }
+    img{
+        width: 303px;
+        position: relative;
+    }
+    h3{
+        margin-left: 320px;
+        margin-top: -189px;
+    }
+    #p1{
+        margin-left:315px;
+        margin: top 1px; ;
+    
+    }
+    #b1{
+        margin-left: 616px;
+        margin-top: 3px;
+    }
+
+
+    #container3{
+        width: 40%;
+        height: 300px;
+        border-radius:10px;
+        margin-top:-345px;
+        background-color:rgb(205, 149, 99);
+        float: right;
+        
+        }
+        img{
+            width: 303px;
+            position: relative;
+        }
+        h3{
+            margin-left: 320px;
+            margin-top: -1809x;
+        }
+        #p1{
+            margin-left:315px;
+            margin-top: 2PX;
+            
+        
+        }
+        #b1{
+            margin-left: 616px;
+            margin-top: 15px;
+        }
+        #b3{
+            margin-left: -370px;
+            margin-top: 70PX;
+        }
+        
